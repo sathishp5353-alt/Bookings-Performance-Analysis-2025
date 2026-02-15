@@ -24,6 +24,7 @@ Business Insights
 - Average Booking Value
 - Cancellation Rate
 
+
 ## Outcome
 Created an interactive Power BI dashboard for business insights.
 
