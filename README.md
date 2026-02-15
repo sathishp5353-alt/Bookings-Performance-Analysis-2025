@@ -55,7 +55,8 @@ and drill-downs using DAX measures, slicers, and interactive visuals to support 
 **POWER BI DASHBOARD**
 ----> HOME                     -  ![Home](https://github.com/user-attachments/assets/5cd2ce2d-432b-4f00-8fc3-022a1f495fc0)
 
-----> City & Customer Analysis -  <img width="1411" height="744" alt="Screenshot 2026-02-15 132118" src="https://github.com/user-attachments/assets/666b3f27-37e6-43e5-b07f-63dc1570c41a" />
+----> City & Customer Analysis -  <img width="1313" height="724" alt="Screenshot 2026-02-15 132118" src="https://github.com/user-attachments/assets/e3edbb68-7bd1-46dd-9ed1-f1a116df9805" />
+
 
 
 ----> Cancellation Analysis    -  ![Cancellation Analysis](https://github.com/user-attachments/assets/b8df378a-a39d-492a-93e1-521d136779f0)
