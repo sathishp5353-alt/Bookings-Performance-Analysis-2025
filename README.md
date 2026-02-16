@@ -27,7 +27,7 @@ Business Insights
 Created an interactive Power BI dashboard for business insights.
 
 **SQL PROJECT QUESTIONS**
-1.Show all bookings made in 2025
+****1.Show all bookings made in 2025
 2.Count total number of bookings
 3.Find total revenue from all bookings
 4.List all distinct cities
@@ -43,10 +43,10 @@ Created an interactive Power BI dashboard for business insights.
 14.Find total cancelled bookings by city
 15.Calculate cancellation rate (%)
 16.Find customers with more than 5 bookings
-17.Rank cities based on revenue
+17.Rank cities based on revenue**
 18.Find peak booking month
 19.Identify service type with highest cancellation
-20.Running total of revenue month-wise
+20.Running total of revenue month-wise**
 
 **POWER BI**
 I designed a multi-page Power BI dashboard with KPIs, trends,
@@ -55,7 +55,8 @@ and drill-downs using DAX measures, slicers, and interactive visuals to support 
 **POWER BI DASHBOARD**
 ----> HOME                     -  ![Home](https://github.com/user-attachments/assets/5cd2ce2d-432b-4f00-8fc3-022a1f495fc0)
 
-----> City & Customer Analysis -  <img width="1313" height="724" alt="Screenshot 2026-02-15 132118" src="https://github.com/user-attachments/assets/e3edbb68-7bd1-46dd-9ed1-f1a116df9805" />
+----> City & Customer Analysis -  <img width="1310" height="789" alt="Screenshot 2026-02-16 142730" src="https://github.com/user-attachments/assets/b2b39843-a60c-440e-a6bc-76fff2c3f0b5" />
+
 
 
 
