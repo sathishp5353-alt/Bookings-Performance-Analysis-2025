@@ -26,8 +26,8 @@ Business Insights
 ## Outcome
 Created an interactive Power BI dashboard for business insights.
 
-**SQL PROJECT QUESTIONS**
-****1.Show all bookings made in 2025
+**SQL PROJECT QUESTIONS**:
+1.Show all bookings made in 2025
 2.Count total number of bookings
 3.Find total revenue from all bookings
 4.List all distinct cities
@@ -46,7 +46,7 @@ Created an interactive Power BI dashboard for business insights.
 17.Rank cities based on revenue**
 18.Find peak booking month
 19.Identify service type with highest cancellation
-20.Running total of revenue month-wise**
+20.Running total of revenue month-wise
 
 **POWER BI**
 I designed a multi-page Power BI dashboard with KPIs, trends,
